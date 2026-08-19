@@ -4,7 +4,7 @@ An interactive 3-page Power BI dashboard that diagnoses employee attrition — w
 
 **[Watch a 90-second walkthrough (Loom)](https://www.loom.com/share/87c430a634d048d1a5d1b51018d5ee1c)**
 
-![Executive Summary](./screenshots/Executive_Summary.PNG)
+![Executive Summary](./HR-Attrition-Dashboard/screenshots/Executive_Summary.PNG)
 
 ---
 
@@ -81,12 +81,12 @@ DIVIDE(
 ## Dashboard Walkthrough
 
 ### Page 1 — Executive Summary
-![Executive Summary](./screenshots/Executive_Summary.PNG)
+![Executive Summary](./HR-Attrition-Dashboard/screenshots/Executive_Summary.PNG)
 
 The landing page. No charts — just the finding and the recommendation, stated in plain language, so a stakeholder gets the full picture in under 30 seconds without needing to read a single visual. Everything on this page is a direct restatement of what the other two pages prove.
 
 ### Page 2 — Dashboard
-![Dashboard](./screenshots/Dashboard.PNG)
+![Dashboard](./HR-Attrition-Dashboard/screenshots/Dashboard.PNG)
 
 The operational view, built around one central design decision: **rate is shown next to count, never as a replacement for it.**
 
@@ -98,7 +98,7 @@ The operational view, built around one central design decision: **rate is shown 
 - **Total Leavers by Job Satisfaction** and **Total Leavers by Age Group:** supporting demographic context.
 
 ### Page 3 — Key Drivers
-![Key Drivers](./screenshots/Key_Drivers.PNG)
+![Key Drivers](./HR-Attrition-Dashboard/screenshots/Key_Drivers.PNG)
 
 The diagnostic view, built on two of Power BI's AI-assisted analytics visuals rather than manually chosen charts — this page answers "why," using statistical ranking instead of eyeballing bar heights.
 
